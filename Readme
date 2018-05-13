@@ -1,0 +1,11 @@
+1. Spring Boot Admin Server
+    mvn spring-boot:run
+    starts on port 8080
+
+2. Spring Boot App Client a
+    mvn spring-boot:run
+    starts on port 8081
+
+3. Spring Boot App Client b
+	mvn spring-boot:run
+    starts on port 8082
